@@ -1,1 +1,1 @@
-# Playing-with-SRA-in-BigQuery
+# Playing-with-SRA-in-BigQuery-Studio
